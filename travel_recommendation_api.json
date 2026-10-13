@@ -1,0 +1,17 @@
+{
+  "beaches": [
+    {"name":"Whitehaven Beach, Australia","imageUrl":"images/whitehaven.jpg","description":"Discover brilliant white silica sand and turquoise water in the Whitsunday Islands."},
+    {"name":"Anse Source d’Argent, Seychelles","imageUrl":"images/seychelles.jpg","description":"A postcard-worthy coastline of shallow clear water and sculpted granite boulders."},
+    {"name":"Navagio Beach, Greece","imageUrl":"images/navagio.jpg","description":"Admire striking limestone cliffs and luminous blue sea along Zakynthos island."}
+  ],
+  "temples": [
+    {"name":"Angkor Wat, Cambodia","imageUrl":"images/angkor.jpg","description":"Experience the monumental Khmer temple complex and its intricate stone carvings."},
+    {"name":"Kinkaku-ji, Japan","imageUrl":"images/kinkakuji.jpg","description":"See Kyoto's iconic golden pavilion reflected in a tranquil landscaped pond."},
+    {"name":"Borobudur, Indonesia","imageUrl":"images/borobudur.jpg","description":"Explore a magnificent Buddhist monument with terraces and carved stone reliefs."}
+  ],
+  "countries": [
+    {"name":"Japan","cities":[{"name":"Kyoto, Japan","imageUrl":"images/kyoto.jpg","description":"Ancient shrines, traditional streets, gardens, and seasonal landscapes."}]},
+    {"name":"Italy","cities":[{"name":"Amalfi Coast, Italy","imageUrl":"images/amalfi.jpg","description":"Colorful villages rise above the Mediterranean along dramatic coastal roads."}]},
+    {"name":"Brazil","cities":[{"name":"Rio de Janeiro, Brazil","imageUrl":"images/rio.jpg","description":"Mountains, coastline, and a vibrant cityscape create an unforgettable setting."}]}
+  ]
+}
